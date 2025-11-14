@@ -51,14 +51,14 @@ layers:
   - RIGHT ALT
   - '&studio_unlock'
   - ''
+  - ''
   - LEFT WIN
   - {t: SPACE, h: nav}
   - {t: TAB, h: num}
-  - ''
-  - ''
   - {t: ENTER, h: media}
   - {t: BACKSPACE, h: sym}
   - {t: DELETE, h: func}
+  - ''
   - ''
   - ENTER
   - RIGHT
@@ -117,8 +117,8 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
   - ''
+  - {type: held}
   - ''
   - ''
   - ''
@@ -185,8 +185,8 @@ layers:
   - ''
   - ''
   - ''
-  - ''
   - {type: held}
+  - ''
   - ''
   - ''
   - ''
@@ -248,8 +248,8 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
   - ''
+  - {type: held}
   - ''
   - ''
   - ''
@@ -313,8 +313,8 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
   - ''
+  - {type: held}
   - ''
   - ''
   - ''
@@ -381,8 +381,8 @@ layers:
   - ''
   - ''
   - ''
-  - ''
   - {type: held}
+  - ''
   - ''
   - ''
   - ENTER
@@ -446,8 +446,8 @@ layers:
   - ''
   - ''
   - ''
-  - ''
   - {type: held}
+  - ''
   - ''
   - ''
   - ENTER
@@ -512,13 +512,11 @@ layers:
   - ''
   - ''
   - ''
-  - ''
   - {type: held}
+  - ''
   - ''
   - ENTER
   - RIGHT
   - UP ARROW
   - LEFT
   - DOWN
-  studio_unlock: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '',
-    '&studio_unlock', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
