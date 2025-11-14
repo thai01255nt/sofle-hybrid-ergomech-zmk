@@ -49,6 +49,7 @@ layers:
   - .
   - /
   - RIGHT ALT
+  - MUTE
   - {t: RIGHT ALT, h: studio_unlock}
   - {t: RIGHT ALT, h: studio_unlock}
   - LEFT WIN
@@ -112,6 +113,7 @@ layers:
   - PAGE UP
   - END
   - INSERT
+  - ''
   - ''
   - ''
   - ''
@@ -182,6 +184,7 @@ layers:
   - ''
   - ''
   - ''
+  - ''
   - {type: held}
   - ''
   - ''
@@ -240,6 +243,7 @@ layers:
   - '2'
   - '3'
   - '*'
+  - ''
   - ''
   - ''
   - ''
@@ -305,6 +309,7 @@ layers:
   - ']'
   - )
   - ','
+  - ''
   - ''
   - ''
   - ''
@@ -375,6 +380,7 @@ layers:
   - ''
   - ''
   - ''
+  - ''
   - {type: held}
   - ''
   - ''
@@ -428,6 +434,7 @@ layers:
   - +
   - \
   - /
+  - ''
   - ''
   - ''
   - ''
@@ -504,6 +511,7 @@ layers:
   - ''
   - ''
   - ''
+  - ''
   - {type: held}
   - ''
   - ''
@@ -550,6 +558,7 @@ layers:
   - ''
   - ''
   - '&studio_unlock'
+  - ''
   - ''
   - ''
   - ''
