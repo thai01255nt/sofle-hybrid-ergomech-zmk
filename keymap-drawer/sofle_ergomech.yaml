@@ -53,8 +53,8 @@ layers:
   - ''
   - ''
   - LEFT WIN
-  - {t: SPACE, h: num}
-  - {t: TAB, h: nav}
+  - {t: SPACE, h: nav}
+  - {t: TAB, h: num}
   - {t: ENTER, h: media}
   - {t: BACKSPACE, h: sym}
   - {t: DELETE, h: func}
@@ -118,8 +118,8 @@ layers:
   - ''
   - ''
   - ''
-  - ''
   - {type: held}
+  - ''
   - ''
   - ''
   - ''
@@ -248,8 +248,8 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
   - ''
+  - {type: held}
   - ''
   - ''
   - '0'
@@ -313,8 +313,8 @@ layers:
   - ''
   - ''
   - ''
-  - {type: held}
   - ''
+  - {type: held}
   - ''
   - ''
   - ''
