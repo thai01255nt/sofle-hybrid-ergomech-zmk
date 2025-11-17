@@ -24,8 +24,7 @@
 
     keymap {
         compatible = "zmk,keymap";
-        default_layer {
-            label = "alpha";
+        alpha {
             bindings = <
 &kp GRAVE   &kp N1    &kp N2    &kp N3     &kp N4     &kp N5          &kp N6     &kp N7     &kp N8        &kp N9    &kp N0    &none
 &kp LEFT_ALT    &kp Q  &kp W  &kp E         &kp R        &kp T        &kp Y        &kp U            &kp I         &kp O    &kp P     &kp LEFT_BRACKET
@@ -37,7 +36,6 @@
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
         };
         nav {
-            label = "nav";
             bindings = <
 &none     &none     &none     &none    &none    &none     &none     &none    &none     &none     &none   &none
 &none  &kp LEFT_WIN          &kp LEFT_ALT      &kp LCTRL          &kp LEFT_SHIFT         &kp SEMICOLON    &kp K_REDO  &kp K_PASTE     &kp K_COPY    &kp K_CUT        &kp K_UNDO    &none
@@ -49,7 +47,6 @@
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
         };
         media {
-            label = "media";
             bindings = <
 &none  &none  &none &none  &none  &none  &none     &none &none &none &none &none
 &bt BT_CLR_ALL  &none         &kp C_STOP      &kp C_PLAY_PAUSE  &kp C_MUTE       &none           &none         &kp C_MUTE    &kp C_PLAY_PAUSE  &kp C_STOP      &none         &bt BT_CLR_ALL
