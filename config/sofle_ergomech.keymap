@@ -22,7 +22,7 @@
 &studio_unlock  &none &none &kp LEFT_WIN  &lt 1 SPACE  &lt 3 TAB      &lt 2 ENTER  &lt 5 BACKSPACE  &lt 7 DELETE  &none &none
                                                                       &kp ENTER  &kp RIGHT  &kp UP_ARROW  &kp LEFT  &kp DOWN
             >;
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
+            sensor-bindings = <&msc SCRL_UP SCRL_DOWN &inc_dec_kp PG_UP PG_DN>;
         };
         nav {
             bindings = <
